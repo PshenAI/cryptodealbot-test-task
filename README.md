@@ -1,7 +1,7 @@
 # cryptodealbot-test-task
 A test task for CryptoDealBot.
 
-Create a simple REST-Controller that returns cryptocurrency pairs from a third-party api.
+Create a simple REST-Controller that returns cryptocurrency pairs from a third-party api, which are asynchronously fetched.
 
 The endpoint for fetching the price would be available by default here: http://localhost:8080/crypto/{insertPairNameHere}/price 
 
